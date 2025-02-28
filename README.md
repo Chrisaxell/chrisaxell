@@ -1,6 +1,5 @@
 ## Chrisaxell
-Chrisaxell
-Born to nut
+Chrisaxell, developer
 
 <!--
 **Chrisaxell/chrisaxell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
